@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726298458800",
+    "project_id": "simpelet-a1f2a",
+    "storage_bucket": "simpelet-a1f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726298458800:android:59f1612fda7700ef7c9975",
+        "android_client_info": {
+          "package_name": "marshall.melajah.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726298458800-c53qnnq5hkgmcpohotokv1qddp69m3vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GRpdkbOtg1hBNYQ-H0oMYha6axZv4Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726298458800-c53qnnq5hkgmcpohotokv1qddp69m3vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
